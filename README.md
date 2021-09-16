@@ -1,3 +1,3 @@
 # C-Database-Management
 
-A simple database management programme written in C
+A simple data management programme written in C++
